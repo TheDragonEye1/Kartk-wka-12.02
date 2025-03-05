@@ -1,2 +1,5 @@
-#22
-##Python
+# 22
+## Python
+
+```python
+print("Bye cruel world!")
